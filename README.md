@@ -506,6 +506,6 @@ https://github.com/jianboqi/CSF
 
 ## Attribution
 
-**Author:** Kiana Abbas Abadi
+**Author:** Kiana Abbasabadi
 
 Dataset ownership remains with its
